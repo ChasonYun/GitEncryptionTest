@@ -8,6 +8,7 @@ namespace delegateTest
 {
     class test
     {
+        public delegate void test_();
     }
 
 }
