@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\delegateTest\bin\Debug\netcoreapp3.1\delegateTest.exe
+C:\Users\Administrator\source\repos\delegateTest\bin\Debug\netcoreapp3.1\delegateTest.deps.json
+C:\Users\Administrator\source\repos\delegateTest\bin\Debug\netcoreapp3.1\delegateTest.runtimeconfig.json
+C:\Users\Administrator\source\repos\delegateTest\bin\Debug\netcoreapp3.1\delegateTest.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\delegateTest\bin\Debug\netcoreapp3.1\delegateTest.dll
+C:\Users\Administrator\source\repos\delegateTest\bin\Debug\netcoreapp3.1\delegateTest.pdb
+C:\Users\Administrator\source\repos\delegateTest\obj\Debug\netcoreapp3.1\delegateTest.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\delegateTest\obj\Debug\netcoreapp3.1\delegateTest.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\delegateTest\obj\Debug\netcoreapp3.1\delegateTest.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\delegateTest\obj\Debug\netcoreapp3.1\delegateTest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\delegateTest\obj\Debug\netcoreapp3.1\delegateTest.dll
+C:\Users\Administrator\source\repos\delegateTest\obj\Debug\netcoreapp3.1\delegateTest.pdb
+C:\Users\Administrator\source\repos\delegateTest\obj\Debug\netcoreapp3.1\delegateTest.genruntimeconfig.cache
